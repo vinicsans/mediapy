@@ -1,0 +1,12 @@
+Disciplinas Tecnicas
+ASO: 10.0
+IBD: 8.333333333333334
+IIH: 9.666666666666666
+PRC: 9.666666666666666
+TEL: 9.666666666666666
+A nota final é: 9.4
+
+Matematica
+Matematica: 8.666666666666666
+A nota final é: 9.0
+
